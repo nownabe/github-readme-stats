@@ -65,12 +65,12 @@
 <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
 </a>
 
-Are you considering to support the project by donating to me? Please DON'T!!  
+Are you considering to support the project by donating to me? Please DON'T!!
 
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
+Instead, Help India fight 2nd deadly wave of COVID,
+Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.
 
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
+Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.
 Your small help goes a long way. :heart:
 </p>
 
@@ -399,7 +399,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 
 NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/nownabe/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
